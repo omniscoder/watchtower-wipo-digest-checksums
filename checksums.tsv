@@ -1,3 +1,2 @@
-version	sha256	filename
-watchtower-wipo-digest-v0.1.0	5f496694714f15b460239df801ed63f55901ee9c54663f0a8f2cf8f31287886e	weekly_digest.zip
-
+seq	tag	artifact	sha256
+1	watchtower-wipo-digest-v0.1.0	weekly_digest.zip	5f496694714f15b460239df801ed63f55901ee9c54663f0a8f2cf8f31287886e
